@@ -1,5 +1,5 @@
 # ABOUT-ME
-# Hello, Orji Honest !.
+# Hello, Orji Honest here!.
 
 # Cybersecurity & Ethical Hacking Portfolio
 
