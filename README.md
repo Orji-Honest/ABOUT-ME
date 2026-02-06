@@ -1,12 +1,13 @@
 # ABOUT-ME
-a detailed description about me
+# Hello, Orji Honest !.
+
 # Cybersecurity & Ethical Hacking Portfolio
 
 ## 👤 About Me
 I am a cybersecurity trainee with hands-on experience in defensive security,
 Python scripting, and foundational penetration testing concepts. I am
 particularly interested in transitioning from SOC operations into penetration
-testing, with a strong emphasis on ethical and responsible security practices.
+testing, with a strong emphasis on ethical and responsible security practices.I have strong fundamentals in reconnaissance, vulnerability identification, credential security testing, and SOC-aware offensive security.
 
 This portfolio showcases practical projects completed as part of structured
 cybersecurity tasks, focusing on security fundamentals, automation, and threat
